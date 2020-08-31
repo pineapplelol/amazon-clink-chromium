@@ -1,0 +1,19 @@
+html {
+  height: 150px;
+  width: 350px;
+}
+
+h2 {
+  display: inline;
+}
+
+.container {
+  width: 85%;
+  margin: 0 auto;
+  padding-top: 1em;
+}
+
+.settings-link {
+  display: inline;
+  padding-left: 45%;
+}
